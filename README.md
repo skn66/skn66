@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @skn66
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning js,ui/ux
+- 🌱 I’m currently learning python
 
 <!---
 skn66/skn66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
